@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Afissard
-- 👀 I’m interested in simple video game for learning how it's work. I have a lot of ideas and most of then are way too ambitious.
-- 🌱 I’m currently learning Go, Python and C (and probably more).
-- 💞️ I’m looking to collaborate on nothing for the moment.
-- 📫 How to reach me ...
-
+# 👋 Hi, I’m Afissard
 <!---
-Afissard/Afissard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+paragraphe sur moi
 --->
+TODO
+
+## Languages and tools I use
+<!---
+icons : https://github.com/tandpfun/skill-icons
+--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,obsidian,go,kotlin,java,c,cpp,python,lua,html,css,javascript,typescript,linux,bash,md,arduino" />
+  </a>
+</p>
