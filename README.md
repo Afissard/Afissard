@@ -4,7 +4,7 @@ paragraphe sur moi + une banière sympa
 --->
 I'm a french student in BUT Computer Science who love creating games wether it's table top role playing game or video games. I have learn to use many tools with my school and personnal projects and I keep learning new ones (like Godot, Unity, Laravel and React).
 
-I want to work in the game developpement industrie, wether it'as a independent developper or in a studio, I will.
+I want to work in the game development industry, whether it's an independent developer or in a studio, I will.
 
 ## Languages and tools I use
 <!---
