@@ -12,6 +12,6 @@ icons : https://github.com/tandpfun/skill-icons
 --->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,obsidian,go,kotlin,java,cs,c,cpp,python,lua,html,css,javascript,typescript,php,linux,bash,md,arduino,godot" />
+    <img src="https://skillicons.dev/icons?i=git,obsidian,go,kotlin,java,cs,c,cpp,python,lua,html,css,javascript,typescript,php,linux,bash,md,arduino,godot,nix,vim" />
   </a>
 </p>
